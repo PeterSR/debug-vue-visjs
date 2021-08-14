@@ -2,7 +2,9 @@
 
 The placement of items and zooming seems to be broken in vis.js Timeline when using Vue.
 
-See a demonstration here: https://github.com/sjmallon/vue-visjs/issues/17
+See a demonstration here: 
+
+https://user-images.githubusercontent.com/222286/129437542-80c78f8c-d7c5-41f6-a68e-e7db14116e52.mp4
 
 This repo contains two web apps:
 One is created as a Vue app (created with `vue create <app>`) and another as a pure Webpack app (created with `npx webpack init`).
