@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/222286/129437542-80c78f8c-d7c5-41f6-a6
 This repo contains two web apps:
 One is created as a Vue app (created with `vue create <app>`) and another as a pure Webpack app (created with `npx webpack init`).
 
-Each of aims to use `vis-timeline` is the same way:
+Each aim to use `vis-timeline` is the same way:
 Show one item "Test" placed at `2021-06-01`.
 
 To ensure that reactivity of Vue does not mess with the `Timeline` object, the Vue version does not store anything in `data` or similar. Everything happens in `$nextTick`.
